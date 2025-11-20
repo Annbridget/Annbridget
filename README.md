@@ -1,5 +1,5 @@
 
-## 💼 Annbridget Nkirote - Personal Portfolio Website
+## 💼 Annbridget Nkirote 
 Your Next Data-Driven Decision Starts Here
 Transforming data into actionable insights across healthcare, finance, and e-commerce.
 

@@ -3,7 +3,7 @@
 Your Next Data-Driven Decision Starts Here
 Transforming data into actionable insights across healthcare, finance, and e-commerce.
 
-🔗 ## Live Preview
+🔗  Live Preview
 👉 View My Portfolio Website
 
 ## 👩‍💻 About Me
@@ -48,7 +48,7 @@ No white backgrounds — use soft, engaging gradients or solid hues
 Smooth hover effects and animated transitions for better interactivity
 
 ## 🧾 How to Use Locally
-# Clone the repository
+Clone the repository
 git clone https://github.com/Annbridget/your-portfolio-repo.git
 
 # Navigate into the directory

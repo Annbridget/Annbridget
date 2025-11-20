@@ -4,7 +4,7 @@ Your Next Data-Driven Decision Starts Here
 Transforming data into actionable insights across healthcare, finance, and e-commerce.
 
 🔗  Live Preview
-👉 View My Portfolio Website
+👉 https://my-personal-portfolio-git-main-annbridgets-projects.vercel.app/
 
 ## 👩‍💻 About Me
 I'm a passionate, results-driven Data Scientist with a background in Education from Kenyatta University and a Data Science certification from GoMyCode. I specialize in:
@@ -55,7 +55,7 @@ git clone https://github.com/Annbridget/your-portfolio-repo.git
 cd your-portfolio-repo
 
 # Open index.html in your browser
-##📄 License
+📄 License
 Licensed under the MIT License — open to modification and reuse.
 <!--
 **Annbridget/Annbridget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

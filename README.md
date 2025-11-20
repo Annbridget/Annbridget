@@ -4,7 +4,8 @@ Your Next Data-Driven Decision Starts Here
 Transforming data into actionable insights across healthcare, finance, and e-commerce.
 
 🔗  Live Preview
-👉 https://my-personal-portfolio-git-main-annbridgets-projects.vercel.app/
+👉 [View My Portfolio Website](https://my-personal-portfolio-git-main-annbridgets-projects.vercel.app/)
+
 
 ## 👩‍💻 About Me
 I'm a passionate, results-driven Data Scientist with a background in Education from Kenyatta University and a Data Science certification from GoMyCode. I specialize in:
